@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Han's Portfolio</title>
+
+    <link href="src/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <script src="src/jquery/jquery.min.js"></script>
+    <script src="src/bootstrap/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="./index.html"><b>Han Bao</b></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="./projects.html">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="blogs.html">Blogs</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <h1 class="my-4">My Projects </h1>
+    <hr>
+
+    <!--Project 1-->
+    <div class="row">
+        <div class="col-md-7">
+            <h3>Movie Website</h3>
+            <p><b>Language:</b> Python, Javascript, HTML</p>
+            <p><b>Frameworks/Libraries:</b> Django, jQuery, Bootstrap</p>
+            <p>This is a movie website, using <b>Django</b> as backend, SQlite as database. Features like search, user
+                management, login via Facebook are implemented.</p>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/Movie-Django" target="_blank">View Code</a>
+            <a class="btn btn-success" href="http://baohan08.pythonanywhere.com/" target="_blank">View Website</a>
+        </div>
+        <div class="col-md-5">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/Movie.png">
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 2-->
+    <div class="row">
+        <div class="col-md-7">
+            <h3>Interactive World Map</h3>
+            <p><b>Language:</b> Javascript, HTML</p>
+            <p><b>Frameworks/Libraries:</b> D3, jQuery, Bootstrap</p>
+            <p>This is a data visualization of world map with population data from 2015 to 2100, developed primarily
+                using <b>D3</b>.</p>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/WorldPopulationData" target="_blank">View
+                Code</a>
+            <a class="btn btn-success" href="https://brucehenry.github.io/WorldPopulationData/" target="_blank">View
+                Website</a>
+        </div>
+        <div class="col-md-5">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/D3.png">
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 3-->
+    <div class="row">
+        <div class="col-md-7">
+            <h3>Word Sweeper</h3>
+            <p><b>Language:</b> Java</p>
+            <p><b>Frameworks/Libraries:</b> Swing</p>
+            <p>Partly participated in the development of this game using Java, responsibilities including
+                object design, chain-of-responsibility pattern implement and unit test.</p>
+            <ul>
+                <li>Players are able to create a new game or join an existed game.</li>
+                <li>Use xml to transfer data.</li>
+                <li>Wrong inputs (invalid Game Number or username) and network disconnections are handled nicely.</li>
+                <li>The GUI is developed using Java Swing.</li>
+            </ul>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/WordSweeper_Libra" target="_blank">View
+                Code</a>
+        </div>
+        <div class="col-md-5">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/WordSweeper.png"
+                 style="position:relative;top:50px;">
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 4-->
+    <div class="row">
+        <div class="col-md-7">
+            <h3>Website Complexity Research</h3>
+            <p><b>Language:</b> Python</p>
+            <p>This is a research project about website complexity and performance. Use Python to parse GBs of JSON
+                format HAR (HTTP Archive) files, and analyze the statistical data to find patterns among popular
+                websites, and the key factor of website performance.</p>
+            <ol>
+                <li><b>Gather Data: </b>Use selenium running on Docker from 3 different locations (US, EU and Asia) of
+                    AWS to generate GBs of HAR files.
+                </li>
+                <li><b>Parse HAR:</b> Use Python to build a parser to aggregate data from HAR files.</li>
+                <li><b>Analysis Data: </b>Find patterns among popular websites. Compare today's(2016) results with
+                    <a href="https://web.eecs.umich.edu/~harshavm/papers/imc11.pdf" target="_blank">similar research</a>
+                    in 2011.
+                </li>
+            </ol>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/Web-Complexity" target="_blank">View
+                Code</a>
+            <a class="btn btn-danger" href="./MeasuringWebComplexity.pdf" target="_blank">View
+                Paper</a>
+        </div>
+        <div class="col-md-5">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="images/WebComplexity.png">
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 5-->
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Network Protocol Design</h3>
+            <p><b>Language:</b> Python</p>
+            <p>Implemented a 3-layer network stack consisting of: application, data-link and physical layers.</p>
+            <ul>
+                <li><b>Application Layer: </b>This layer implements an interactive request/response protocol, including
+                    functions like calculator and file transfer.
+                </li>
+                <li><b>Data Link Layer: </b>Implements both Goback-N and Selective Repeat algorithms to provide reliable
+                    packet transfer.
+                </li>
+                <li>
+                    <b>Physical Layer: </b>Deliberately drop some packet to simulate the physical layer in the real
+                    world.
+                </li>
+            </ul>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/Network-Protocol" target="_blank">View
+                Code</a>
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 6-->
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Chat Room</h3>
+            <p><b>Language:</b> C++</p>
+            <p>A console chat room including client and server developed in <b>C++</b>.</p>
+            <ul>
+                <li>Commands for admin to manage the server, like check server status and block a user.</li>
+                <li>Clients can chat and transfer files with each other.</li>
+            </ul>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/IRC-Chat-Room" target="_blank">View
+                Code</a>
+        </div>
+    </div>
+    <hr>
+
+</div>
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+    </div>
+</footer>
+
+
+</body>
+
+</html>

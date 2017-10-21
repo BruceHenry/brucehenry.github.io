@@ -1,0 +1,53 @@
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+#portrait {
+    float: left;
+    width: 160px;
+    border-radius: 50%;
+    padding: 10px
+}
+
+#portrait:hover {
+    padding: 0;
+}
+
+.about-me {
+    font-size: 19px;
+}
+
+.contact{
+    color: black;
+}
+
+.works {
+    width: 350px;
+    height: 300px;
+    border: 1px #b0b0b0 solid;
+    margin-right: 10px;
+}
+
+.works:hover {
+    border:2px #b0b0b0 solid;
+    position: relative;
+    top: -10px;
+    opacity: 0.8;
+}
+
+.pagination {
+    margin-bottom: 15px;
+}
+
+.row{
+    margin: 5px;
+}
+.row:hover{
+    background-color: #ebebeb;
+}
