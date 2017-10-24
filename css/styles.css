@@ -51,3 +51,14 @@ body {
 .row:hover{
     background-color: #ebebeb;
 }
+
+.blog-list{
+    width: 900px;
+    height: 100px;
+    border: 1px #ebebeb solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.description{
+    color: #6c757d;
+}

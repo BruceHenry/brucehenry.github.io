@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Han's Portfolio</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="../src/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/styles.css" rel="stylesheet">
+
+    <script src="../src/jquery/jquery.min.js"></script>
+    <script src="../src/bootstrap/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="../index.html"><b>Han Bao</b></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item ">
+                    <a class="nav-link" href="../index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../projects.html">Projects</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../blogs.html">Blogs</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container" style="height: 700px">
+    <h1>ArrayList and Array, Convert to Each Other</h1>
+    <hr/>
+    <h3>Convert ArrayList to Array in Java</h3>
+    <code style="background-color: #ebebeb">
+        List &lt;T&gt; list = new ArrayList&lt;T&gt;();<br/>
+        T [] array = list.toArray(new T[list.size()]);
+    </code>
+    <hr/>
+    <h3>Convert Array to ArrayList in Java</h3>
+    <ul>
+        <li><b>Flexible Length (Recommend)</b></li>
+    </ul>
+    <code>List list = new ArrayList(Arrays.asList(array));</code>
+
+    <ul>
+        <li>Inflexible</li>
+    </ul>
+    <code>List list = Arrays.asList(array);</code>
+    <p>You are not able to add new values to it, because list object is immutable.</p>
+
+    <hr/>
+</div>
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Han Bao 2017</p>
+    </div>
+</footer>
+
+
+</body>
+
+</html>
