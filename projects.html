@@ -38,11 +38,19 @@
 
 <div class="container">
 
+
     <h1 class="my-4">My Projects </h1>
-    <hr>
+    <hr class="stay">
+    <form id="language-select">
+        <input type="checkbox" class="language" value="Java">Java &nbsp;&nbsp;
+        <input type="checkbox" class="language" value="Python">Python &nbsp;&nbsp;
+        <input type="checkbox" class="language" value="JavaScript">JavaScript &nbsp;&nbsp;
+        <input type="checkbox" class="language" value="C">C++
+    </form>
+    <hr class="stay">
 
     <!--Project 1-->
-    <div class="row">
+    <div class="row Python">
         <div class="col-md-7">
             <h3>Movie Website</h3>
             <p><b>Language:</b> Python, Javascript, HTML</p>
@@ -59,10 +67,10 @@
     <hr>
 
     <!--Project 2-->
-    <div class="row">
+    <div class="row JavaScript">
         <div class="col-md-7">
             <h3>Interactive World Map</h3>
-            <p><b>Language:</b> Javascript, HTML</p>
+            <p><b>Language:</b> JavaScript, HTML</p>
             <p><b>Frameworks/Libraries:</b> D3, jQuery, Bootstrap</p>
             <p>This is a data visualization of world map with population data from 2015 to 2100, developed primarily
                 using <b>D3</b>.</p>
@@ -78,7 +86,7 @@
     <hr>
 
     <!--Project 3-->
-    <div class="row">
+    <div class="row Java">
         <div class="col-md-7">
             <h3>Word Sweeper</h3>
             <p><b>Language:</b> Java</p>
@@ -102,7 +110,7 @@
     <hr>
 
     <!--Project 4-->
-    <div class="row">
+    <div class="row Python">
         <div class="col-md-7">
             <h3>Website Complexity Research</h3>
             <p><b>Language:</b> Python</p>
@@ -131,7 +139,7 @@
     <hr>
 
     <!--Project 5-->
-    <div class="row">
+    <div class="row Python">
         <div class="col-md-12">
             <h3>Network Protocol Design</h3>
             <p><b>Language:</b> Python</p>
@@ -148,14 +156,15 @@
                     world.
                 </li>
             </ul>
-            <a class="btn btn-primary" href="https://github.com/BruceHenry/Network-Protocol/tree/merged" target="_blank">View
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/Network-Protocol/tree/merged"
+               target="_blank">View
                 Code</a>
         </div>
     </div>
     <hr>
 
     <!--Project 6-->
-    <div class="row">
+    <div class="row C">
         <div class="col-md-12">
             <h3>Chat Room</h3>
             <p><b>Language:</b> C++</p>
@@ -177,6 +186,29 @@
     </div>
 </footer>
 
+
+<script>
+    $(function () {
+        $('.language').change(function () {
+            var flag = true;
+            var row = $('.row');
+            row.hide();
+            $('#language-select').children('input').each(function () {
+                $('hr').not(".stay").remove();
+                if ($(this).prop("checked")) {
+                    $('.' + $(this).val()).show();
+                    flag = false;
+                }
+            });
+            if (flag)
+                row.show();
+            row.each(function () {
+                if ($(this).is(':visible'))
+                    $(this).after('<hr>');
+            });
+        })
+    })
+</script>
 
 </body>
 
