@@ -42,11 +42,13 @@
     <h1 class="my-4">My Projects </h1>
     <hr class="stay">
     <form id="language-select">
+        <b>Filter: </b>&nbsp;&nbsp;
         <input type="checkbox" class="language" value="Java">Java &nbsp;&nbsp;
         <input type="checkbox" class="language" value="Python">Python &nbsp;&nbsp;
         <input type="checkbox" class="language" value="JavaScript">JavaScript &nbsp;&nbsp;
         <input type="checkbox" class="language" value="C">C++
     </form>
+    <b id="count">9 projects found.</b>
     <hr class="stay">
 
     <!--Project 1-->
@@ -179,10 +181,46 @@
     </div>
     <hr>
 
+    <!--Project 7-->
+    <div class="row Java">
+        <div class="col-md-12">
+            <h3>Hibernate Practice</h3>
+            <p><b>Language:</b> Java</p>
+            <p>This project is a practice of Hibernate. The code covers most common usage of Hibernate.</p>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/HibernatePractice" target="_blank">View
+                Code</a>
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 8-->
+    <div class="row Java">
+        <div class="col-md-12">
+            <h3>Spring Practice</h3>
+            <p><b>Language:</b> Java</p>
+            <p>This project is a practice of Spring.</p>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/SpringPractice" target="_blank">View
+                Code</a>
+        </div>
+    </div>
+    <hr>
+
+    <!--Project 9-->
+    <div class="row Java">
+        <div class="col-md-12">
+            <h3>Java EE Practice</h3>
+            <p><b>Language:</b> Java</p>
+            <p>This project is a practice of Java EE including Servlet and JSP.</p>
+            <a class="btn btn-primary" href="https://github.com/BruceHenry/JavaEE-Practice" target="_blank">View
+                Code</a>
+        </div>
+    </div>
+    <hr>
+
 </div>
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Han Bao 2017</p>
     </div>
 </footer>
 
@@ -190,6 +228,7 @@
 <script>
     $(function () {
         $('.language').change(function () {
+            var count=0;
             var flag = true;
             var row = $('.row');
             row.hide();
@@ -203,9 +242,12 @@
             if (flag)
                 row.show();
             row.each(function () {
-                if ($(this).is(':visible'))
+                if ($(this).is(':visible')){
                     $(this).after('<hr>');
+                    count++;
+                }
             });
+            $('#count').html(count +' projects found.');
         })
     })
 </script>
