@@ -1,103 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="add hexo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/public/tags/Java/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/db.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/scaffolds/draft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/scaffolds/page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/scaffolds/post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/default.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/fr.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/nl.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/no.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/ru.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-CN.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-TW.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/after-footer.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive-post.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/article.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/footer.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/google-analytics.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/head.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/header.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/mobile-nav.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/category.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/date.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/gallery.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/nav.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/tag.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/title.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/sidebar.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/archive.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/category.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/recent_posts.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tag.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tagcloud.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/archive.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/category.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/layout.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/page.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/post.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/layout/tag.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/scripts/fancybox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_extend.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/archive.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/article.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/comment.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/footer.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/header.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/highlight.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/mobile.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-aside.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/grid.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/mixin.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/_variables.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/css/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/themes/landscape/source/js/script.js" afterPath="" />
+    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/2017/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/index.html" afterPath="$PROJECT_DIR$/blog/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/tags/Java/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/Java/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -114,8 +26,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -299,7 +211,7 @@
       <workItem from="1509079314276" duration="1873000" />
       <workItem from="1509357905219" duration="6000" />
       <workItem from="1511073801275" duration="9040000" />
-      <workItem from="1511133516793" duration="916000" />
+      <workItem from="1511133516793" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="image adjustment">
       <created>1508558097977</created>
@@ -413,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511133903272</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add hexo">
+      <created>1511134454246</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1511134454246</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50924000" />
+    <option name="totallyTimeSpent" value="51176000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -851,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
