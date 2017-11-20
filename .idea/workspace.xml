@@ -5,7 +5,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/2017/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/archives/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/index.html" afterPath="$PROJECT_DIR$/blog/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/public/tags/Java/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/Java/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +26,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -105,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +132,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +223,8 @@
       <workItem from="1509357905219" duration="6000" />
       <workItem from="1511073801275" duration="9040000" />
       <workItem from="1511133516793" duration="2016000" />
-      <workItem from="1511135586186" duration="615000" />
+      <workItem from="1511135586186" duration="1295000" />
+      <workItem from="1511162466639" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="image adjustment">
       <created>1508558097977</created>
@@ -354,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511135449575</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add hexo">
+      <created>1511136465936</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511136465936</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52639000" />
+    <option name="totallyTimeSpent" value="53338000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -607,8 +619,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="437">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding />
         </state>
       </provider>
