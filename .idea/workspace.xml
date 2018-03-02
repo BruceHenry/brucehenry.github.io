@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/archives/2018/02/index.html" />
+    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="add 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" />
       <change beforePath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" />
       <change beforePath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2017/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/01/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" afterPath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/categories/Java-Basics/index.html" afterPath="$PROJECT_DIR$/blog/public/categories/Java-Basics/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" />
       <change beforePath="$PROJECT_DIR$/blog/public/index.html" afterPath="$PROJECT_DIR$/blog/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/tags/D3/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/D3/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/tags/Java/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/Java/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,38 +21,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/projects.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="26">
+                  <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#1768#1774#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/blog/public/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2264">
+                  <caret line="210" column="5" lean-forward="true" selection-start-line="210" selection-start-column="5" selection-end-line="210" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="48" column="66" lean-forward="false" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="572">
+                  <caret line="101" column="7" lean-forward="true" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,9 +138,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
-    <option name="y" value="19" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="541" />
     <option name="width" value="1192" />
     <option name="height" value="1047" />
   </component>
@@ -140,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -148,22 +171,10 @@
               <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,7 +256,9 @@
       <workItem from="1517783250687" duration="363000" />
       <workItem from="1518605232530" duration="1342000" />
       <workItem from="1518650730731" duration="8000" />
-      <workItem from="1518708755160" duration="85000" />
+      <workItem from="1518708755160" duration="247000" />
+      <workItem from="1519256871315" duration="12000" />
+      <workItem from="1519969849850" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="image adjustment">
       <created>1508558097977</created>
@@ -457,11 +470,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518606563250</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add 03">
+      <created>1518708867263</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1518708867263</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66834000" />
+    <option name="totallyTimeSpent" value="68053000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -473,9 +493,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="19" width="1192" height="1047" extended-state="0" />
+    <frame x="-9" y="-9" width="3218" height="1318" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21317157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20939767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -539,7 +559,8 @@
     <MESSAGE value="update blog style" />
     <MESSAGE value="add map 02" />
     <MESSAGE value="update info" />
-    <option name="LAST_COMMIT_MESSAGE" value="update info" />
+    <MESSAGE value="add 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -688,13 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="208" column="10" lean-forward="true" selection-start-line="208" selection-start-column="10" selection-end-line="208" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -702,27 +716,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="101" column="7" lean-forward="true" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="26">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+          <folding>
+            <element signature="e#1768#1774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2264">
+          <caret line="210" column="5" lean-forward="true" selection-start-line="210" selection-start-column="5" selection-end-line="210" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="48" column="66" lean-forward="false" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
