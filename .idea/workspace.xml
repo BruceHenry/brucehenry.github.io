@@ -1,11 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="update react project">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ShoppingList.png" />
+    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/categories/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/algolia_logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/apple-touch-icon-next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/avatar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by-nc-nd.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by-nc-sa.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by-nc.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by-nd.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by-sa.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-by.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/cc-zero.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/favicon-16x16-next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/favicon-32x32-next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/placeholder.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/quote-l.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/quote-r.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/images/searchicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/algolia-search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/exturl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/js.cookie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/motion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/post-details.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/schemes/pisces.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/scroll-cookie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/js/src/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/HELP-US-OUT.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/css/font-awesome.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/jquery/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/ua-parser-js/dist/ua-parser.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/ua-parser-js/dist/ua-parser.pack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/velocity/velocity.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/velocity/velocity.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/velocity/velocity.ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/lib/velocity/velocity.ui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/public/tags/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/DreamCar.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/ArrayToList/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" afterPath="$PROJECT_DIR$/blog/public/2017/11/19/JavaInstallation/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/11/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/2017/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2017/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/01/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/02/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/archives/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" afterPath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/categories/Java-Basics/index.html" afterPath="$PROJECT_DIR$/blog/public/categories/Java-Basics/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/images/banner.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/blank.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/fancybox_loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/fancybox_loading@2x.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/fancybox_overlay.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/fancybox_sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/fancybox_sprite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/fancybox_buttons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/jquery.fancybox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/jquery.fancybox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/fancybox/jquery.fancybox.pack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/index.html" afterPath="$PROJECT_DIR$/blog/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/js/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blog/public/tags/D3/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/D3/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/tags/Java/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/Java/index.html" />
+      <change beforePath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,21 +103,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="projects.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state relative-caret-position="538">
               <caret line="92" column="54" lean-forward="false" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/public/index.html">
+      <file leaf-file-name="pisces.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/public/js/src/schemes/pisces.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6952">
-              <caret line="210" column="5" lean-forward="false" selection-start-line="210" selection-start-column="5" selection-end-line="210" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,21 +126,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="2889">
+              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="101" column="7" lean-forward="false" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -102,8 +176,8 @@
         <option value="$PROJECT_DIR$/blog/_config.yml" />
         <option value="$PROJECT_DIR$/blog/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -113,7 +187,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
@@ -146,22 +220,6 @@
               <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brucehenry.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brucehenry.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,8 +237,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Han Bao\Documents\GitHub\brucehenry.github.io\images" />
       <recent name="C:\Users\Han Bao\Documents\GitHub\brucehenry.github.io\blog" />
+      <recent name="C:\Users\Han Bao\Documents\GitHub\brucehenry.github.io\images" />
       <recent name="C:\Users\Han Bao\WebstormProjects\HanBaoPortfolio\images" />
       <recent name="C:\Users\Han Bao\WebstormProjects\HanBaoPortfolio" />
       <recent name="C:\Users\Han Bao\WebstormProjects\HanBaoPortfolio\css" />
@@ -254,7 +312,10 @@
       <workItem from="1520399212753" duration="891000" />
       <workItem from="1520405239162" duration="299000" />
       <workItem from="1520406457878" duration="910000" />
-      <workItem from="1520408071885" duration="451000" />
+      <workItem from="1520408071885" duration="466000" />
+      <workItem from="1520613343464" duration="603000" />
+      <workItem from="1520621482015" duration="767000" />
+      <workItem from="1521219338328" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="image adjustment">
       <created>1508558097977</created>
@@ -501,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520406681692</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update react project">
+      <created>1520408530045</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1520408530045</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72995000" />
+    <option name="totallyTimeSpent" value="74414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,20 +585,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23089172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1936937" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15177155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19244392" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33695653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22941822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -596,13 +664,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html" />
     <entry file="file://$PROJECT_DIR$/css/w3.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -733,34 +794,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/public/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2222">
+        <state relative-caret-position="2727">
           <caret line="101" column="7" lean-forward="false" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6952">
-          <caret line="210" column="5" lean-forward="false" selection-start-line="210" selection-start-column="5" selection-end-line="210" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,8 +812,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state relative-caret-position="538">
           <caret line="92" column="54" lean-forward="false" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="210" column="5" lean-forward="false" selection-start-line="210" selection-start-column="5" selection-end-line="210" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/js/src/schemes/pisces.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
