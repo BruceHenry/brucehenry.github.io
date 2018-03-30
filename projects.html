@@ -59,8 +59,7 @@
             <h3>Interactive World Map</h3>
             <p><b>Language:</b> JavaScript, HTML</p>
             <p><b>Frameworks/Libraries:</b> D3, jQuery, Bootstrap</p>
-            <p>This is a data visualization of world map with population data from 2015 to 2100, developed primarily
-                using <b>D3</b>.</p>
+            <p>This is a data visualization of world map with population data from 2015 to 2100, developed with <b>D3</b>.</p>
             <a class="btn btn-primary" href="https://github.com/BruceHenry/WorldPopulationData" target="_blank">View
                 Code</a>
             <a class="btn btn-success" href="https://brucehenry.github.io/WorldPopulationData/" target="_blank">View
@@ -101,8 +100,12 @@
             <h3>Movie Website</h3>
             <p><b>Language:</b> Python, Javascript, HTML</p>
             <p><b>Frameworks/Libraries:</b> Django, jQuery, Bootstrap</p>
-            <p>This is a movie website, using <b>Django</b> as backend, SQlite as database. Features like search, user
-                management, login via Facebook are implemented.</p>
+            <p>This is a movie website, using <b>Django</b> as backend, SQlite as database.</p>
+            <ul>
+                <li>Implemented a <b>search engine</b> to support vague search and search suggestion.</li>
+                <li><b>RESTful</b> API together with <b>AJAX</b> to provide better user experience.</li>
+                <li>Utilized Facebook <b>OAuth</b>> API to enable users to log in via Facebook.</li>
+            </ul>
             <a class="btn btn-primary" href="https://github.com/BruceHenry/Movie-Django" target="_blank">View Code</a>
             <a class="btn btn-success" href="http://baohan08.pythonanywhere.com/" target="_blank">View Website</a>
         </div>
@@ -119,13 +122,12 @@
             <h3>Word Sweeper</h3>
             <p><b>Language:</b> Java</p>
             <p><b>Frameworks/Libraries:</b> Swing</p>
-            <p>Partly participated in the development of this game using Java, responsibilities including
-                object design, chain-of-responsibility pattern implement and unit test.</p>
+            <p>A client/server model online Windows game.</p>
+            <p>Used socket to connect client with server, <b>Swing</b> to develop the GUI, <b>XML</b> to transfer data between client and server, <b>SAX</b> to parse XML and <b>JUnit</b> to test.</p>
             <ul>
-                <li>Players are able to create a new game or join an existed game.</li>
-                <li>Use xml to transfer data.</li>
-                <li>Wrong inputs (invalid Game Number or username) and network disconnections are handled nicely.</li>
-                <li>The GUI is developed using Java Swing.</li>
+                <li>Player can create a new game or join an existed game.</li>
+                <li>Spelling an English word correctly by clicking letters and submitting will get points.</li>
+                <li>Click "Up", "Down", "Left", "Right" to move inside the global board shared with other players.</li>
             </ul>
             <a class="btn btn-primary" href="https://github.com/BruceHenry/WordSweeper_Libra" target="_blank">View
                 Code</a>
@@ -146,13 +148,11 @@
                 format HAR (HTTP Archive) files, and analyze the statistical data to find patterns among popular
                 websites, and the key factor of website performance.</p>
             <ol>
-                <li><b>Gather Data: </b>Use selenium running on Docker from 3 different locations (US, EU and Asia) of
-                    AWS to generate GBs of HAR files.
-                </li>
+                <li><b>Gather Data: </b>GBs of <b>HAR</b>(HTTP Archive) data generated from 3 different geographical locations (US, EU and Asia) of <b>AWS</b> servers using <b>selenium</b>.</li>
                 <li><b>Parse HAR:</b> Use Python to build a parser to aggregate data from HAR files.</li>
-                <li><b>Analysis Data: </b>Find patterns among popular websites. Compare today's(2016) results with
+                <li><b>Analysis Data: </b>Compare today's(2016) results with
                     <a href="https://web.eecs.umich.edu/~harshavm/papers/imc11.pdf" target="_blank">similar research</a>
-                    in 2011.
+                    in 2011 to find patterns among popular websites and the key factors of web performance.
                 </li>
             </ol>
             <a class="btn btn-primary" href="https://github.com/BruceHenry/Web-Complexity" target="_blank">View
