@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="update blogs">
+    <list default="true" id="f91d95aa-401f-4b0a-9397-afce4372029a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/01/31/InteractiveMap_02/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" afterPath="$PROJECT_DIR$/blog/public/2018/02/05/InteractiveMap_03/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/02/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/2018/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/2018/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/archives/index.html" afterPath="$PROJECT_DIR$/blog/public/archives/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" afterPath="$PROJECT_DIR$/blog/public/categories/Data-Visualization/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/css/main.css" afterPath="$PROJECT_DIR$/blog/public/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/blog/public/index.html" afterPath="$PROJECT_DIR$/blog/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/tags/D3/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/D3/index.html" />
-      <change beforePath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" afterPath="$PROJECT_DIR$/blog/public/tags/JavaScript/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,8 +53,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="161" column="17" lean-forward="false" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
+            <state relative-caret-position="338">
+              <caret line="168" column="7" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -133,8 +122,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1273" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="685" />
+    <option name="y" value="66" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
@@ -173,13 +163,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="_layouts&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/git/blog" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="_layouts&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -208,9 +201,6 @@
         <browser start="true" url="http://localhost:63342/HanBaoPortfolio/index.html" />
       </EXTENSION>
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -265,7 +255,7 @@
       <workItem from="1522380491959" duration="5746000" />
       <workItem from="1522423048574" duration="599000" />
       <workItem from="1522429531598" duration="1124000" />
-      <workItem from="1522623438323" duration="69000" />
+      <workItem from="1522623438323" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="image adjustment">
       <created>1508558097977</created>
@@ -568,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522430073427</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="update blogs">
+      <created>1522623524359</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1522623524359</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82227000" />
+    <option name="totallyTimeSpent" value="82838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,8 +832,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/public/2018/01/19/InteractiveMap_01/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="161" column="17" lean-forward="false" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
+        <state relative-caret-position="338">
+          <caret line="168" column="7" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="7" />
           <folding />
         </state>
       </provider>
